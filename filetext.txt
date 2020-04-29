@@ -1,0 +1,3 @@
+Hi there from file
+Whats up in C
+Let me know something new
